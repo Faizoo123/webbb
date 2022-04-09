@@ -1,0 +1,13 @@
+.some{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blue;
+    background-color: rgb(43, 86, 226);
+    height:150px;
+    margin:5px;
+    text-align: center;
+    
+}
+.container{
+    background-color: aqua;
+    height: 2000px;
+}

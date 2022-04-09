@@ -1,0 +1,101 @@
+body{
+    font-family: Calisto MT;
+}
+.start{
+    widht:100%;
+}
+.image{
+
+text-align:center;
+}
+#khan{
+    width:120%;
+    height:300% ;
+    
+}
+.flex{
+    width: 100%;
+    display:inline-flex;
+    
+    height:100px;
+    position:absolute;
+    top:1.5%;
+    left:0.5%;
+    font-style: italic;
+    font-size:15px ;
+}
+.menu{
+    min-width: 200px;
+    color:whitesmoke;
+    font-size:1.5em;
+   
+    text-align:center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    
+}
+.title{
+    position:absolute;
+    font-family: Calisto MT;
+    top:30%;
+    left:5%;
+    color:aliceblue;
+    font-style: italic;
+    font-size:3em ;
+}
+.subtitle{
+    position:absolute;
+    color:aliceblue;
+    font-family: Calisto MT;
+    left:5%;
+    top:40%;
+    bottom:42%;
+    font-size:2em ;
+}
+.heading{
+    display:inline-flex;
+    bottom:25%;
+    right:50%;
+    
+    height:100px;
+  
+    
+    position: absolute;
+    color:azure;
+
+    font-size:2em ;
+    
+}
+.some{
+    position: absolute;
+    
+  top:97%;
+    display:flex;
+    width:100%;
+    justify-content:center;
+    height: 500px;
+    margin-top:50px ;
+    flex-direction: row;
+    margin-left:auto ;
+
+
+}
+
+.skill1{
+
+    width:100%;
+    margin-top:40px ;
+    justify-content:center ;
+}
+
+
+.text1{
+    color:white;
+    margin-top:50px ;
+    font-weight:bolder;
+    font-size:1em;
+    font-family: Calisto MT;
+    
+    
+}

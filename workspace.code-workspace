@@ -1,0 +1,25 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\java script"
+		}
+	],
+    "settings": {
+        "workbench.preferredLightColorTheme": "Default Dark+",
+        "liveServer.settings.multiRootWorkspaceName": "websitee my"
+    },
+    "launch": {
+        "configurations": [
+
+            {
+                "type": "pwa-msedge",
+                "name": "http://C:\\Program Files\\nodejs\\",
+                "request": "launch",
+                "url": "http://C:\\Program Files\\nodejs\\"
+            }
+        ]
+    }
+}
